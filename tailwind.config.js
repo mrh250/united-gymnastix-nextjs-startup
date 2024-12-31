@@ -39,10 +39,10 @@ module.exports = {
         transparent: "transparent",
         white: "#FFFFFF",
         black: "#121723",
-        dark: "#eaaa00",
+        dark: "#171C28",
         primary: "#4A6CF7",
         yellow: "#FBB040",
-        "bg-color-dark": "#171C28",
+        "bg-color-dark": "#eaaa00",
         "body-color": {
           DEFAULT: "#788293",
           dark: "#959CB1",
