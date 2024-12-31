@@ -38,7 +38,7 @@ module.exports = {
         current: "currentColor",
         transparent: "transparent",
         white: "#FFFFFF",
-        black: "#eaaa00",
+        black: "#000000",
         dark: "#eaaa00",
         primary: "#4A6CF7",
         yellow: "#FBB040",
@@ -53,7 +53,7 @@ module.exports = {
         },
         gray: {
           ...colors.gray,
-          dark: "#1E232E",
+          dark: "#eaaa00",
           light: "#F0F2F9",
         },
       },
